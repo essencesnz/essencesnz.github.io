@@ -42,3 +42,13 @@ a img {
 sup, sub {
     line-height: 0;
 }
+
+*,
+*::before,
+*::after {
+  box-sizing: content-box; // 1
+}
+
+img {
+  vertical-align: inherit;
+}

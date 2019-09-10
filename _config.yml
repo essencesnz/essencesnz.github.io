@@ -1,14 +1,12 @@
 # Site settings
-title: Essences Ltd
+title: ESSENCES - Simplified I.T. solutions that fit YOU!
 description: Simplified I.T. solutions that fit YOU!
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Essences 
+username: ESSENCES
 user_description: Simplified I.T. solutions that fit YOU!
 user_title: Simplified I.T. solutions that fit YOU!
-email: essences@essences.co.nz
+email: hello@essences.co.nz
 twitter_username: essencesnz
 github_username:  essencesnz
 
